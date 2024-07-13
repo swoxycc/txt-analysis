@@ -9,5 +9,4 @@ echo Kurulum basarili.
 cls
 title swoxy txt-analysis
 py main.py
-timeout 5
 pause
