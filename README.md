@@ -11,6 +11,6 @@ Bu proje, TxT İçindeki Hesapları Ayrı Bir Txt Olarak Ayırmaya yarar.
 
 3. Tarama Bittikten Sonra result.txt Olarak Kaydedilcektir.
 
-[![MasterHead](https://cdn.discordapp.com/attachments/1246963243738464406/1261506270129684550/image.png?ex=669334c4&is=6691e344&hm=8c2d36877d9a3394f46ba96d3cb8eb0a7472bf590408de760ca3307b9c2b2e22&)
+[![MasterHead](https://cdn.discordapp.com/attachments/1246963243738464406/1261506270129684550/image.png?ex=66992384&is=6697d204&hm=6b5bff69b8e3539ac6bccc5af3cabfcc0c816925d88a0551eade57a8d8bc1e71&)
 
 ## İyi Kullanımlar 💫
