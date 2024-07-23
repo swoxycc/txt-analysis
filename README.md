@@ -1,6 +1,6 @@
 # Txt Analysis
 
-![MasterHead](https://cdn.discordapp.com/attachments/1246963243738464406/1261506270129684550/image.png?ex=66a10c84&is=669fbb04&hm=7fb0befad1275835f2fb2401326fc06729baa9268e9fd50c77152980c37332e9&)
+![MasterHead](https://raw.githubusercontent.com/swoxycan/txt-analysis/main/proje.png)
 
 ## Proje Hakkında
 
