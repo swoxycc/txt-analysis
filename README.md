@@ -1,6 +1,6 @@
-# Txt Analysis
-
 ![MasterHead](https://raw.githubusercontent.com/swoxycan/txt-analysis/main/proje.png)
+
+# TxT Analysis
 
 ## Proje Hakkında
 
