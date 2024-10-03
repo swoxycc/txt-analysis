@@ -14,10 +14,6 @@ Bu proje, içinde hesaplar bulunan bir TXT dosyasını analiz ederek, hesapları
     cd txt-analysis-main
     ```
 
-2. **Gerekli Bağımlılıkları Yükleyin:**
-    ```bash
-    npm install
-    ```
 
 ## Kullanım
 
